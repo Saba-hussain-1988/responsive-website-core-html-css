@@ -5,8 +5,7 @@
       { "source": "/products", "destination": "/html/products/index.html" },
       { "source": "/contact_us", "destination": "/html/contact_us/index.html" }
     ],
-  
-    "route": {
+    "$schema": {
       "build": "echo 'Build step for Vercel'"
     }
   }
