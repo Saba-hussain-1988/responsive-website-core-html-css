@@ -6,7 +6,7 @@
       { "source": "/contact_us", "destination": "/html/contact_us/index.html" }
     ],
   
-    "scripts": {
+    "route": {
       "build": "echo 'Build step for Vercel'"
     }
   }
